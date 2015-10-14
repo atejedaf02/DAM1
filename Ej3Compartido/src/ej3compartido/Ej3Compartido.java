@@ -22,7 +22,7 @@ public class Ej3Compartido {
       
         System.out.println("Mi nombre es: Eric Fernández Redondo");//hola
         System.out.println("Mi edad es : " + edad);
-        System.out.println("Mi altura es : "+ altura+ " metros");
+        System.out.println("Mi altura es : "+ altura+ " metros");//prueba
     //SEGUNDO CAMBIO
     }
     
