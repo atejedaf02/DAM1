@@ -20,7 +20,7 @@ public class Ej3Compartido {
       float altura = 1.75F;
       
       
-        System.out.println("Mi nombre es: Eric Fernández Redondo");
+        System.out.println("Mi nombre es: Eric Fernández Redondo");//hola
         System.out.println("Mi edad es : " + edad);
         System.out.println("Mi altura es : "+ altura+ " metros");
     //SEGUNDO CAMBIO
